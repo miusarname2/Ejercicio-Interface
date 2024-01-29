@@ -81,6 +81,7 @@ Las interfaces no pueden tener propiedades.
 
 **Diferencia entre interfaces, características y clases abstractas:**
 
+
 * Las interfaces son un contrato que define un conjunto de métodos que debe implementar una clase.
 * Las características son un conjunto de métodos que una clase puede implementar.
 * Las clases abstractas son una combinación de interfaces y características. Pueden definir un conjunto de métodos que las subclases deben implementar, así como un conjunto de métodos que las subclases pueden implementar.
